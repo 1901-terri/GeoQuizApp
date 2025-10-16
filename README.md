@@ -35,7 +35,7 @@ GeoQuiz is an interactive Android application designed to test users' knowledge 
 
 ## Setup Instructions
 
-1. Clone the repository
+1. Clone the repository: https://github.com/1901-terri/GeoQuizApp.git 
 2. Open the project in Android Studio
 3. Build and run on an emulator or physical device
 
